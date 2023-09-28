@@ -121,13 +121,13 @@
   }
 }
 
-@media (max-width: 96px) {
+@media (min-width: 50px) and (max-width: 120px) {
   .video-grid {
     grid-template-columns: 1fr;
   }
 }
 
-@media (min-width: 97px) and (max-width: 749px) {
+@media (min-width: 121px) and (max-width: 749px) {
   .video-grid {
     grid-template-columns: 1fr 1fr;
   }
