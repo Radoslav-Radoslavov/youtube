@@ -205,7 +205,7 @@
 
 @media (max-width: 420px) {
   .search-bar,
-  right-section {
+ .right-section {
     display: none;
   }
 }
