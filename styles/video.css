@@ -122,9 +122,6 @@
 }
 
 @media (max-width: 750px) {
-  body {
-    padding-left: 20px;
-  }
   .video-grid {
     grid-template-columns: 1fr;
   }
