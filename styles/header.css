@@ -204,17 +204,10 @@
 }
 
 @media (max-width: 420px) {
-  .search-bar,
- .right-section {
-    display: none;
-  }
-}
-
-@media (max-width: 750px) {
   .search-bar {
     display: none;
   }
-  
+
   .search-button {
     height: 40px;
     width: 40px;
@@ -246,5 +239,4 @@
     justify-content: space-between;
     flex-shrink: 0;
   }
-   
 }
