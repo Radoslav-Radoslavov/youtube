@@ -203,6 +203,13 @@
   opacity: 1;
 }
 
+@media (max-width: 420px) {
+  .search-bar,
+  right-section {
+    display: none;
+  }
+}
+
 @media (max-width: 750px) {
   .search-bar {
     display: none;
