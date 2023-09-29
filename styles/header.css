@@ -219,18 +219,6 @@
     margin-right: 10px;
   }
 
-  .upload-icon,
-  .notifications-icon {
-    margin-right: 15px;
-  }
-  
-  .notifications-count {
-    display:none;
-  }
-  .youtube-apps-icon {
-    display: none;
-  }
-
   .right-section {
     display: none;
   }
