@@ -203,7 +203,7 @@
   opacity: 1;
 }
 
-@media (max-width: 568px) {
+@media (max-width: 584px) {
   .search-bar {
     display: none;
   }
